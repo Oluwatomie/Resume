@@ -1,0 +1,55 @@
+.header {
+  background-color: grey;
+  color: black;
+  text-align: center;
+  flex-grow: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a:link {
+  color: black;
+}
+
+a:active {
+  color: black;
+}
+
+.body {
+  width: 1200px;
+  margin: auto;
+  border-bottom: 2px solid grey;
+  border-top: 2px solid grey;
+  border-left: 2px solid grey;
+  border-right: 2px solid grey;
+}
+
+.summary {
+  column-count: 2;
+}
+
+.work {
+  column-count: 2;
+  column-width: auto;
+}
+
+.education {
+  column-count: 2;
+  column-width: auto;
+}
+
+.hobbies {
+  column-count: 2;
+}
+
+.skills {
+  column-count: 2;
+}
+
+.training {
+  column-count: 2;
+}
+
+.reference {
+  column-count: 2;
+}
